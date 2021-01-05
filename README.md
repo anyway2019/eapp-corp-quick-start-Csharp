@@ -1,5 +1,5 @@
 # eapp-corp-quick-start-Csharp
-This a ding-talk demo project is built by netcore web for https://github.com/opendingtalk/eapp-corp-quick-start-fe.
+This a ding-talk demo project is built by netcore web for https://github.com/lishuo0710/eapp-corp-quick-start-fe.
 # quick guide
 Edit class Constants replace `your app key` and `your app secret`
 ```
