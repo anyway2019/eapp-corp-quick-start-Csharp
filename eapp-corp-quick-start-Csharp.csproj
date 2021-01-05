@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>eapp_corp_quick_start_Csharp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="TopSdk">
+      <HintPath>libs\TopSdk.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
